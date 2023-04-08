@@ -1,6 +1,7 @@
-# thenamer
+# The Namer
 
-A new Flutter project.
+A new Flutter project from codelabs and PLP. 
+The app is developed for Windows(desktop).
 
 ## Getting Started
 
